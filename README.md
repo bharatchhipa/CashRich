@@ -1,7 +1,7 @@
 # CashRich
 Code is present on Development Branch \
 
-To test : Postman Collection is present \
+To test : Postman Collection is present /
 Architecture diagram : Attached \
 
 Configuration \
