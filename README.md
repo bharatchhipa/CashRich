@@ -1,6 +1,6 @@
 # CashRich
-Code is present on Development Branch
-To test : Postman Collection is attached
+Code is present on Development Branch \n
+To test : Postman Collection is attached \n
 Architecture diagram : Attached
 
 Configuration
